@@ -1,4 +1,4 @@
-# matrice
+ matrice
 Matrix NxN size calculation
 How to use the program
 iput the matrix on this format 
